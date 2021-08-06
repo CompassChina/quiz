@@ -1,5 +1,6 @@
 {
   "name": "@compass-china-quiz/typescript-string-and-literal-union",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@tsconfig/recommended": "^1.0.1",
