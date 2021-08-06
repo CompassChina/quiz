@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@tsconfig/recommended": "^1.0.1",
     "typescript": "^4.3.5"
   }
 }
