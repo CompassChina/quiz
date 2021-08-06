@@ -1,0 +1,34 @@
+{
+  "name": "compass-china-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A collection of quiz in Compass China",
+  "repository": "https://github.com/CompassChina/quiz.git",
+  "license": "MIT",
+  "author": "Yanlin Jiang <yanlin.jiang@compass.com>",
+  "workspaces": [
+    "*"
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,json,jsx,ts,tsx,md,html,css}": "prettier --write"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "http-server": "^0.12.3",
+    "husky": "^4.3.8",
+    "lint-staged": "^11.1.2",
+    "prettier": "^2.3.2",
+    "prettier-plugin-jsdoc": "^0.3.23",
+    "prettier-plugin-packagejson": "^2.2.11",
+    "typescript": "^4.3.5"
+  }
+}
