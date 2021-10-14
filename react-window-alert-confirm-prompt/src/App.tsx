@@ -22,13 +22,13 @@ export const App = () => {
         </div>
         <div className="react">
           <button className="btn" onClick={() => reactAlert('alert')}>
-            react alert
+            reactAlert
           </button>
           <button className="btn" onClick={() => reactConfirm('confirm')}>
-            react confirm
+            reactConfirm
           </button>
           <button className="btn" onClick={() => reactPrompt('prompt', '1')}>
-            react prompt
+            reactPrompt
           </button>
         </div>
       </div>
