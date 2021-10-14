@@ -22,4 +22,4 @@ const App = () => {
 ```
 
 [![CodeSandbox](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CompassChina/quiz/main/csb.json)](https://githubbox.com/CompassChina/quiz/tree/main/react-window-alert-confirm-prompt)
-[![StackBlitz](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CompassChina/quiz/main/sbz.json)](https://githubbox.com/CompassChina/quiz/tree/main/react-window-alert-confirm-prompt)
+[![StackBlitz](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CompassChina/quiz/main/sbz.json)](https://stackblitz.com/github/CompassChina/quiz/tree/main/react-window-alert-confirm-prompt)

@@ -29,5 +29,5 @@ Display shields.io endpoint badge.
 ```
 
 ```md
-[![StackBlitz](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CompassChina/quiz/main/sbz.json)](https://githubbox.com/CompassChina/quiz/tree/main/_quiz_folder_)
+[![StackBlitz](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/CompassChina/quiz/main/sbz.json)](https://stackblitz.com/github/CompassChina/quiz/tree/main/_quiz_folder_)
 ```
