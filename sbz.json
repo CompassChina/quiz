@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "label": "stackblitz",
-  "message": "playground",
-  "color": "0f4c81",
+  "message": "try it yourself",
+  "color": "0064e5",
   "namedLogo": "chakraui",
   "logoColor": "1389fd",
   "style": "for-the-badge"
