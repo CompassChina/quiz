@@ -1,5 +1,5 @@
 .app {
-  margin: 48px;
+  margin: 32px;
 }
 
 .title {
@@ -20,6 +20,6 @@
 }
 
 .btn {
-  margin: 32px;
+  margin: 16px;
   font-size: 20px;
 }
