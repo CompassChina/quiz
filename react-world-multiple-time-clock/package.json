@@ -7,11 +7,11 @@
     "start": "parcel index.html"
   },
   "dependencies": {
-    "@types/react": "^17.0.16",
+    "@types/react": "^17.0.29",
     "@types/react-dom": "^17.0.9",
     "parcel-bundler": "^1.12.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "typescript": "^4.3.5"
+    "typescript": "^4.4.4"
   }
 }
